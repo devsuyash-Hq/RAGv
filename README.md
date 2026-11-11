@@ -99,5 +99,5 @@ Type `exit` to quit.
 
 ## Author
 
-**Suyash** – Java developer and MCA student
+**Suyash** – Softeware developer and MCA student
 GitHub: [@devsuyash-Hq](https://github.com/devsuyash-Hq)
